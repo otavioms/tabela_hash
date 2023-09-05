@@ -1,4 +1,4 @@
-# 📃Trabalho 2 - AV2  | Tabela Hash ▤
+# 📃Trabalho 2 - AV2  | Tabela Hash ▤ | 2023.1
 
 ---
 
@@ -15,7 +15,7 @@
 
 
 ```
-Criar um algoritmo em Python que implemente uma Tabela Hash para armazenar nomes, utilizando o Paradigma de Programacao Orientada a Objetos.
+Criar um algoritmo em Python que implemente uma Tabela Hash para armazenar nomes, utilizando o Paradigma de Programacao e Estrutura de Dados.
 ```
 
 
